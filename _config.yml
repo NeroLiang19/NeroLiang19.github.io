@@ -17,8 +17,8 @@ recent_num: 20
 github: NeroLiang19
 
 # avatar and Favicon
-avatar: 
-favicon: 
+avatar: /assets/img/user.jpg
+favicon: /assets/img/user.jpg
 
 # disqus config
 disqus:
