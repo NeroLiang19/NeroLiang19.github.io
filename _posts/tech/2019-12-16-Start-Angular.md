@@ -56,7 +56,7 @@ keywords: Angular
 
 ## 项目结构说明
 
-![cover](https://raw.githubusercontent.com/NeroLiang19/NeroLiang19.github.io/master/_src/Tech/Start-Angular/20191216155337.png)
+![Image text](https://raw.githubusercontent.com/NeroLiang19/NeroLiang19.github.io/master/_src/Tech/Start-Angular/20191216155337.png)
 
 ## 代码脚手架
 
