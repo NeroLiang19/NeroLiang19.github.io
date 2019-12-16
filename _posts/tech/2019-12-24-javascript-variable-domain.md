@@ -5,7 +5,7 @@ category: 技术
 tags: JavaScript
 description: 转载学习
 ---
->转载自:[http://www.cnblogs.com/rainman/archive/2009/04/28/1445687.html](http://www.cnblogs.com/rainman/archive/2009/04/28/1445687.html),略改
+>转载自:[http://www.cnblogs.com/rainman/archive/2009/04/28/1445687.html](http://www.cnblogs.com/rainman/archive/2009/04/28/1445687.html)
 
 - JavaScript的变量作用域是基于其特有的作用域链
 - JavaScript没有块级作用域

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bootstrap常用资源（转）
+title: Bootstrap常用资源
 category: 资源
 tags: Bootstrap
 description: 

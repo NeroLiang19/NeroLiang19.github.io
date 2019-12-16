@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shell 常用资源（转）
+title: Shell 常用资源
 category: 资源
 tags: Shell
 keywords: Shell

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python 常用资源（转）
+title: Python 常用资源
 category: 资源
 tags: Python
 keywords: Python

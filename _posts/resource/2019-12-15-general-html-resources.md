@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTML 常用资源（转）
+title: HTML 常用资源
 category: 资源
 tags: HTML
 keywords: HTML
