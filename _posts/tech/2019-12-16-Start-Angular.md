@@ -56,7 +56,7 @@ keywords: Angular
 
 ## 项目结构说明
 
-├── _mock                                       # Mock 数据规则
+├──_mock                                       # Mock 数据规则
 ├── src
 │   ├── app
 │   │   ├── core                                # 核心模块
