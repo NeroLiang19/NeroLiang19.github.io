@@ -56,7 +56,6 @@ keywords: Angular
 
 ## 项目结构说明
 
-```code
 ├── _mock                                       # Mock 数据规则
 ├── src
 │   ├── app
@@ -98,7 +97,7 @@ keywords: Angular
 │   ├── environments                            # 环境变量配置
 │   ├── styles                                  # 样式目录
 └── └── style.less                              # 样式引导入口
-```
+
 
 ## 代码脚手架
 
