@@ -56,48 +56,7 @@ keywords: Angular
 
 ## 项目结构说明
 
-├──_mock                                       # Mock 数据规则
-├── src
-│   ├── app
-│   │   ├── core                                # 核心模块
-│   │   │   ├── auth                            # 认证模块
-│   │   │   ├── net
-│   │   │   │   └── default.interceptor.ts      # 默认HTTP拦截器
-│   │   │   ├── settings                        # 项目基础服务
-│   │   │   ├── startup
-│   │   │   │   ├── startup.factory.ts          # 启动服务
-│   │   │   │   └── startup.service.ts          # 初始化项目配置
-│   │   │   └── core.module.ts                  # 核心模块文件
-│   │   ├── layout                              # 通用布局
-│   │   │   ├── default                         # 默认布局
-│   │   │   └── fullscreen                      # 全屏布局
-│   │   ├── pages
-│   │   │   ├── module-name                     # 业务模块目录
-│   │   │   │   ├── page-name                   # 业务模块中页面目录
-│   │   │   │   │   ├── components              # 业务模块中页面子组件
-│   │   │   │   │   └── **                      # 业务模块中页面组件
-│   │   │   │   └── *-routing.module.tsx        # 模块路由(导航至各个页面)
-│   │   │   ├── pages.module.ts                 # 业务路由模块
-│   │   │   └── pages-routing.module.ts         # 业务路由注册口
-│   │   ├── services
-│   │   │   └── module-name                     # 业务模块目录
-│   │   │       └── service-name                # 业务模块中API服务目录
-│   │   │           ├── models                  # 业务模块中模型
-│   │   │           ├── enums                   # 业务模块中枚举
-│   │   │           └── **.service.ts           # 业务模块中API服务
-│   │   ├── shared                              # 共享模块
-│   │   │   ├── consts                          # 公用常量
-│   │   │   ├── models                          # 公用模型
-│   │   │   ├── components
-│   │   │   │   └── **                          # 公用组件
-│   │   │   └── shared.module.ts                # 共享模块文件
-│   │   ├── app.component.ts                    # 根组件
-│   │   └── app.module.ts                       # 根模块
-│   ├── assets                                  # 本地静态资源
-│   ├── environments                            # 环境变量配置
-│   ├── styles                                  # 样式目录
-└── └── style.less                              # 样式引导入口
-
+![cover](https://raw.githubusercontent.com/NeroLiang19/NeroLiang19.github.io/master/_src/Tech/Start-Angular/20191216155337.png.jpg)
 
 ## 代码脚手架
 
