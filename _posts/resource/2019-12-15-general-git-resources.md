@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Git 常用资源
+title: Git 常用资源（转）
 category: 资源
 tags: Git
 keywords: Git
+description: 
 ---
 
 ## 库管理

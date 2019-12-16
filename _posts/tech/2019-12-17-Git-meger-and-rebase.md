@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git meger And Rebase
+title: Git Meger And Rebase
 category: 技术
 tags: [Git]
 keywords: Git meger Rebase

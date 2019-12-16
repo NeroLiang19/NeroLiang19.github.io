@@ -4,7 +4,7 @@ title: MySQL常用资源
 category: 资源
 tags: MySQL
 keywords: MySQL
-description: 
+description: [reprinted]
 ---
 
 ## 常用命令

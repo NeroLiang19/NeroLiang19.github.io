@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Docker 使用总结
-category: 工具
+category: 技术
 tags: Docker
 keywords: Docker
 ---

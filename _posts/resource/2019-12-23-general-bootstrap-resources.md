@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Bootstrap常用资源
+title: Bootstrap常用资源（转）
 category: 资源
 tags: Bootstrap
-description: 列举自己搜集的Bootstrap资源，给像我这样前端不太行的WEB开发者
+description: 
 ---
 
 ### 官方资源

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: HTML 常用资源
+title: HTML 常用资源（转）
 category: 资源
 tags: HTML
 keywords: HTML
-description: 
+description:
 ---
 
 ## 常用属性

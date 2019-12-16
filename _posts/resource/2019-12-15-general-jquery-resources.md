@@ -1,6 +1,6 @@
 ---
 layout: post
-title: jQuery 常用资源
+title: jQuery 常用资源（转）
 category: 资源
 tags: jQuery
 keywords: jQuery
