@@ -1,4 +1,4 @@
-​---
+---
 layout: post
 title: EasyUi--Check的方法
 category: 技术
@@ -32,4 +32,4 @@ function InitDepartmentTree(formObj, authorDepartmentObj) {
     }, 'json');
 }
 
-​```
+```
