@@ -84,10 +84,10 @@ markdown: redcarpet                         #markdown解释器
 这里的自定义常量可以在模板中使用，以后有修改的时候就不需要跑去改代码了。尤其是对一些私人的选项，可以在这里定义。现在我的博客中出了disqus和googleanalytics外都直接在这里设定就好了。
 
 ### 域名配置
-`CNAME`这个文件写明了这个站点的域名，如果不喜欢`username.github.io`的话，可以像我一样改掉
+`CNAME`这个文件写明了这个站点的域名，如果不喜欢`username.github.io`的话，可以改掉
 
 ```
-yansu.org
+xxxx.org
 ```
 
 改法只要在这个文件中写入域名就可以了。不过你需要去域名服务商那里设定域名解析规则。

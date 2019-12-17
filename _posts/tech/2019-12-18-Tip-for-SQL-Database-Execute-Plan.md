@@ -1,6 +1,6 @@
 ​---
 layout: post
-title: Tip for SQL Database performance
+title: Tip for SQL Database Execute Plan
 category: 技术
 tags: Oracle
 keywords: Oracle,performance
@@ -22,29 +22,29 @@ description:
 
 >Oracle Performance Tuning: Execution Plans
 
-#执行一条SQL,按F5即可查看。
+执行一条SQL,按F5即可查看。
 
-#基数（Rows）：Oracle估计的当前操作的返回结果集行数
+基数（Rows）：Oracle估计的当前操作的返回结果集行数
 
-#字节（Bytes）：执行该步骤后返回的字节数
+字节（Bytes）：执行该步骤后返回的字节数
 
-#耗费（COST）、CPU耗费：Oracle估计的该步骤的执行成本，用于说明SQL执行的代价，理论上越小越好（该值可能与实际有出入）
+耗费（COST）、CPU耗费：Oracle估计的该步骤的执行成本，用于说明SQL执行的代价，理论上越小越好（该值可能与实际有出入）
 
-#时间（Time）：Oracle估计的当前操作所需的时间
+时间（Time）：Oracle估计的当前操作所需的时间
 
-#执行一条SQL,按F5即可查看。
+执行一条SQL,按F5即可查看。
 
-#基数（Rows）：Oracle估计的当前操作的返回结果集行数
+基数（Rows）：Oracle估计的当前操作的返回结果集行数
 
-#字节（Bytes）：执行该步骤后返回的字节数
+字节（Bytes）：执行该步骤后返回的字节数
 
-#耗费（COST）、CPU耗费：Oracle估计的该步骤的执行成本，用于说明SQL执行的代价，理论上越小越好（该值可能与实际有出入）
+耗费（COST）、CPU耗费：Oracle估计的该步骤的执行成本，用于说明SQL执行的代价，理论上越小越好（该值可能与实际有出入）
 
-#时间（Time）：Oracle估计的当前操作所需的时间
+时间（Time）：Oracle估计的当前操作所需的时间
 
 ![Image text](https://raw.githubusercontent.com/NeroLiang19/NeroLiang19.github.io/master/_src/Tech/Oracle-Tip-for-performance/Oracle-Tip-for-performance.png)
 
-#执行顺序：
+执行顺序：
 
 根据Operation缩进来判断，缩进最多的最先执行；（缩进相同时，最上面的最先执行）
 
@@ -54,7 +54,7 @@ description:
 
 同一级的动作执行时遵循最上最右先执行的原则
 
-##表访问的几种方式：（非全部）
+表访问的几种方式：（非全部）
 TABLE ACCESS FULL（全表扫描）
 TABLE ACCESS BY ROWID（通过ROWID的表存取）
 TABLE ACCESS BY INDEX SCAN（索引扫描）
