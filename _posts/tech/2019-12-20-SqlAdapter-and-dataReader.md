@@ -7,7 +7,7 @@ keywords: SqlDataReader,SqlDataAdapter,原理
 description:
 ---
 
-#ADO.NET提供了丰富的数据库操作，在这些操作中SqlConnection和SqlCommand类是必须使用的，但接下来可以分为两类操作：
+# ADO.NET提供了丰富的数据库操作，在这些操作中SqlConnection和SqlCommand类是必须使用的，但接下来可以分为两类操作：
 
 第一类是用SqlDataReader直接一行一行的读取数据库。
 第二类是SqlDataAdapter联合DataSet来读取数据。
