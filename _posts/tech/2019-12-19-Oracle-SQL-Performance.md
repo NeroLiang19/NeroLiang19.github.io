@@ -1,4 +1,4 @@
-​---
+---
 layout: post
 title: Oracle SQL Performance
 category: 技术
@@ -52,8 +52,11 @@ d. ORACLE为管理上述3种资源中的内部花费
 
 ## （12） 减少对表的查询：
 在含有子查询的SQL语句中,要特别注意减少对表的查询.例子：
-     SELECT  TAB_NAME FROM TABLES WHERE (TAB_NAME,DB_VER) = ( SELECT
+
+```
+SELECT  TAB_NAME FROM TABLES WHERE (TAB_NAME,DB_VER) = ( SELECT
 TAB_NAME,DB_VER FROM  TAB_COLUMNS  WHERE  VERSION = 604)
+```
 
 ## （13） 通过内部函数提高SQL效率.：
 复杂的SQL往往牺牲了执行效率. 能够掌握上面的运用函数解决问题的方法在实际工作中是非常有意义的
