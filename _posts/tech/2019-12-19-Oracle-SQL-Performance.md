@@ -2,7 +2,7 @@
 layout: post
 title: Oracle SQL Performance
 category: 技术
-tags: Oracle
+tags: [Oracle]
 keywords: Oracle,SQL
 ---
 

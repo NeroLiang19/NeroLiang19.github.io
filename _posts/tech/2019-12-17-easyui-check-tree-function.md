@@ -2,7 +2,7 @@
 layout: post
 title: EasyUi--Check的方法
 category: 技术
-tags: Jquery
+tags: [Jquery]
 keywords: Jquery,Check
 description:
 ---
