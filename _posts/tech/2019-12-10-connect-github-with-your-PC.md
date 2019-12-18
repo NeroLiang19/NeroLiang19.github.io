@@ -10,23 +10,23 @@ description: 转载学习
 
 ## 前提：
 
-### 1、这里假定已在Github上创建了仓库，建立了仓库
+ 1、这里假定已在Github上创建了仓库，建立了仓库
 
-	2、已在这台电脑上安装了Git客户端
+ 2、已在这台电脑上安装了Git客户端
 
 ## 实验环境：
 
-	1、Windows 10 64位，已安装了Git for Windows的客户端
+ 1、Windows 10 64位，已安装了Git for Windows的客户端
 
 ## 重点说明：
 
-	1、在本机初始化和配置Git客户端
+ 1、在本机初始化和配置Git客户端
 
-	2、要从某台电脑上上传文件到GitHub，需要把在本机生成的密钥配置到GitHub上
+ 2、要从某台电脑上上传文件到GitHub，需要把在本机生成的密钥配置到GitHub上
 
 ## 步骤：
 
-	1.选择工作文件夹，点鼠标右键，点“Git Bash Here”
+ 1.选择工作文件夹，点鼠标右键，点“Git Bash Here”
 	
 ![Image text](https://raw.githubusercontent.com/NeroLiang19/NeroLiang19.github.io/master/_src/Tech/Connect-github-with-your-PC/1.png)
 
@@ -36,11 +36,11 @@ description: 转载学习
 
 ## 3、配置你在Git hub 上创建账号使用的：user name和user  email
 
-	git config --global user.name 'user name'
+ git config --global user.name 'user name'
 
-	git config --global user.email 'your email account'
+ git config --global user.email 'your email account'
 	
-	用你在Git hub上实际的user name替换'user name'，你的邮箱账号xxx@xxx.com替换'your email account'
+ 用你在Git hub上实际的user name替换'user name'，你的邮箱账号xxx@xxx.com替换'your email account'
 
 ## 4.创建密钥
 
@@ -105,4 +105,4 @@ description: 转载学习
 
 ## (4)、登录到GitHub上检查是否推送成功。
 	  
-转载自:[转载学习](https://www.cnblogs.com/SH170706/p/10570598.html)
+转载自:[Git学习笔记——从一台电脑上传文件到Github上](https://www.cnblogs.com/SH170706/p/10570598.html)
