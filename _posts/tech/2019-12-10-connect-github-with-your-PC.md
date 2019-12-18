@@ -101,6 +101,7 @@ description: 转载学习
 ## (3)、推送到GitHub
 
  方式1,推送到master主分支 git push oringin master
+ 
  方式2，推送到某个分支 git push oringin branchName
 
 ## (4)、登录到GitHub上检查是否推送成功。
