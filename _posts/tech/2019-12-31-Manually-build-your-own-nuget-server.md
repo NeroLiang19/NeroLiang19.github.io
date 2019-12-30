@@ -29,7 +29,7 @@ description:
 右键选择管理NuGet包，搜索"NuGet.Server"并安装
 ![github-flow](https://raw.githubusercontent.com/NeroLiang19/NeroLiang19.github.io/master/_src/Tech/Manually-build-your-own-nuget-server/6.png)
 
-安装完后，修改Web.config，删除  <compilation debug="true" targetFramework="4.6" />节点，然后运行项目
+安装完后，修改Web.config，删除 compilation debug="true" targetFramework="4.6" 节点，然后运行项目
 ![github-flow](https://raw.githubusercontent.com/NeroLiang19/NeroLiang19.github.io/master/_src/Tech/Manually-build-your-own-nuget-server/7.png)
 
 目前为止，搭建nuget服务器完成。后续如何添加到IIS我就不详细说明，毕竟微软是傻瓜式发布。
@@ -46,5 +46,5 @@ description:
 打开项目，把本地nuget私有服务器地址添加
 ![github-flow](https://raw.githubusercontent.com/NeroLiang19/NeroLiang19.github.io/master/_src/Tech/Manually-build-your-own-nuget-server/9.png)
 
-搜索名称即可
+更改包源，然后搜索名称即可
 ![github-flow](https://raw.githubusercontent.com/NeroLiang19/NeroLiang19.github.io/master/_src/Tech/Manually-build-your-own-nuget-server/10.png)
